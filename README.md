@@ -24,5 +24,5 @@ Dataset yang digunakan dalam analisis ini adalah World Happiness Report 2021. Da
 2. Western Europe menjadi wilayah dengan kebahagiaan tertinggi dimana memberikan kontribusi tertinggi terhadap PDB dunia, memiliki angka harapan hidup diatas 70 tahun serta kebebasan untuk menentukan pilihan hidup yang tinggi.
 3. Wilayah dengan kebahagiaan rendah berada di South Asia, Latin America and Caribbean, Middle East and North Africa, Sub-Saharan Africa.
 4. Meskipun Wilayah Southeast Asia memiliki skor kebagiaan relatif lebih rendah tetapi memiliki kebebasan untuk membuat pilihan hidup tinggi yaitu lebih dari 0.8 
-5. 10 negara paling bahagia yang memiliki angka harapan hidup diatas 70 tahun yaitu Finland, Denmark, Switzerland, Iceland, Netherlands, Norway, Sweden, Luxembourg, New Zealand, Austria.
-6. 10 negara paling tidak bahagia yang memiliki angka harapan hidup kurang dari 60 tahun yaitu Burundi, Yemen, Tanzania, Haiti, Malawi, Lesotho, Botswana, Rwanda, Zimbabwe, Afghanistan.
+5. 10 negara paling bahagia memiliki angka harapan hidup diatas 70 tahun yaitu Finland, Denmark, Switzerland, Iceland, Netherlands, Norway, Sweden, Luxembourg, New Zealand, Austria.
+6. 10 negara paling tidak bahagia memiliki angka harapan hidup kurang dari 60 tahun yaitu Burundi, Yemen, Tanzania, Haiti, Malawi, Lesotho, Botswana, Rwanda, Zimbabwe, Afghanistan.
